@@ -533,7 +533,7 @@
         <dependency>
             <groupId>org.forgerock.commons.ui.libs</groupId>
             <artifactId>handlebars</artifactId>
-            <version>4.0.5</version>
+            <version>4.4.2</version>
             <type>js</type>
         </dependency>
 
